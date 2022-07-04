@@ -1,2 +1,2 @@
 def get_employees():
-    return
+    return print('get_employees')

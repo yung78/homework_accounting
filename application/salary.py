@@ -1,2 +1,2 @@
 def calculate_salary():
-    return
+    return print('calculate_salary')
